@@ -186,16 +186,4 @@ still carries metric columns. They are ignored.
   `back_dutyFactor = (fl + fl) / 2` instead of `(bl + br) / 2`. `_full` is correct; the
   legacy value for that one metric is wrong.
 
-## Before committing
-
-`.mlx` files embed the last run's console output, which includes absolute paths from
-whichever machine ran it. **Clear all output in the Live Editor before committing.**
-
-Suggested `.gitignore`:
-
-```
-*.backup.*
-*.prepublish.*
-*.withoutput.*
-[0-9][0-9][0-9][0-9]/
-```
+# Happy Coding! or whatever
