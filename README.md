@@ -187,3 +187,5 @@ still carries metric columns. They are ignored.
   legacy value for that one metric is wrong.
 
 # Happy Coding! or whatever
+
+# PS: The README is ai-generated so I apologize if it hallucinates (I can not be bothered to read it over)
