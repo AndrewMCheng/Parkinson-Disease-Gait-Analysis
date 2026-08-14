@@ -16,7 +16,7 @@ MATLAB R2023b or newer. Base MATLAB only — no add-on toolboxes.
 | `wheel_running_gait_analysis.mlx` | Legacy. Per-file analysis, one recording at a time. |
 | `wheel_running_gait_analysis_normalizer.mlx` | Legacy. Divides length metrics by body length. |
 | `wheel_running_gait_analysis_compiler.mlx` | Legacy. Box plots of a results CSV, grouped by Author's Note. |
-| `Normalized Gait Analysis.csv` | The manifest — the input that drives `_full`. |
+| `Normalized Gait Analysis.csv` | The manifest — the input that drives `_full`. **The only required contents are file paths (don't mind the name)** |
 | `Normalized Gait Analysis Full.csv` | Output of `_full`. Overwritten on every run. |
 
 `_full` was written by Claude Code by consolidating the other three, which are kept for
