@@ -186,6 +186,8 @@ still carries metric columns. They are ignored.
   `back_dutyFactor = (fl + fl) / 2` instead of `(bl + br) / 2`. `_full` is correct; the
   legacy value for that one metric is wrong.
 
-# Happy Coding! or whatever
+## Author's Notes
 
-# PS: The README is ai-generated so I apologize if it hallucinates (I can not be bothered to read it over)
+Happy Coding! or whatever
+
+PS: The README is ai-generated so I apologize if it hallucinates (I can not be bothered to read it over)
